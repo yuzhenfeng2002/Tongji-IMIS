@@ -12,8 +12,8 @@
 
 ## 课程篇
 
-- [离散数学](Course#离散数学)
-- [管理信息系统分析与设计](Course#管理信息系统分析与设计)
+- [离散数学](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Course#离散数学)
+- [管理信息系统分析与设计](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Course#管理信息系统分析与设计)
 
 ## 实习篇
 
