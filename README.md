@@ -12,6 +12,7 @@
 
 ## 课程篇
 
+- [管理建模与仿真](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Course#管理建模与仿真)
 - [离散数学](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Course#离散数学)
 - [管理信息系统分析与设计](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Course#管理信息系统分析与设计)
 
@@ -29,5 +30,7 @@
 
 ## 留学篇
 
+- Course Based Programs
+- Research Based Programs
 
 ## 考研篇
