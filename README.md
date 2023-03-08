@@ -26,6 +26,11 @@
 
 ## 实习篇
 
+- [互联网]()
+- [商业软件公司](Intern/商业软件公司)
+  - [SAP](Intern/商业软件公司/SAP.md)
+- [新能源or制造](Intern/新能源or制造)
+  - [蔚来](Intern/新能源or制造/蔚来.md)
 
 ## 竞赛篇
 
@@ -38,7 +43,10 @@
 
 ## 留学篇
 
-- Course Based Programs
-- Research Based Programs
+- [德国](Graduate_Oversea/德国.md)
 
 ## 考研篇
+
+
+## 摆烂篇
+
