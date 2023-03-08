@@ -10,6 +10,14 @@
 
 诚实守信，拒绝任何形式的学术不端。仓库拥有者不对该仓库内容的真实性负任何责任。
 
+## News
+
+### 业界招聘
+
+### 学界招聘
+
+- 【20230308】[香港理工大学工业及系统工程学系博士生招聘](https://mp.weixin.qq.com/s/sts-bSfjnwjVV2gypg6nfg)（来源：数据魔术师）
+
 ## 课程篇
 
 - [管理建模与仿真](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Course#管理建模与仿真)
