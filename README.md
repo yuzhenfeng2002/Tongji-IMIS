@@ -22,18 +22,21 @@
 
 ## 课程篇
 
+### 本科课程
+
+- [运营管理](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Course#运营管理)
+- [数据结构](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Course#数据结构)
 - [管理建模与仿真](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Course#管理建模与仿真)
+- [应用软件与管理实践](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Course#应用软件与管理实践)
 - [离散数学](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Course#离散数学)
+- [决策模拟](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Course#决策模拟)
+- [Java语言程序设计](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Course#Java语言程序设计)
 - [管理信息系统分析与设计](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Course#管理信息系统分析与设计)
-- [数据结构-梁哲老师 2019](https://github.com/seanys/Data-Structure-Algoirthm-Tongji-SEM)
-- [管理信息系统分析与设计-吴冰老师 2020](https://github.com/seanys/ERP-Material-Management-Summer)
-- [运营管理-邱灿华老师 2020](https://github.com/seanys/Operations-Management)
-- [决策模拟-胡照林老师 2020](https://github.com/seanys/Boarding-Simulation)
-- [Java编程-贺向东老师 2019](https://github.com/seanys/Java-Tongji-SEM)
-- [软件开发暑期实习 2020](https://github.com/seanys/Software-Development-Summer-Work)
-- [运营管理&仿真优化-邱灿华老师/胡照林老师 2020](https://github.com/seanys/Simulation-Notes)
-- [优化方法与理论-梁哲老师 2021](https://github.com/seanys/Optimality-Theory-Algorithm)
-- [网络设计与优化-王晓蕾老师 2021](https://github.com/seanys/Transportation-and-Optimization-Notes)
+
+### 研究生课程
+
+- [优化理论与方法](https://github.com/seanys/Optimality-Theory-Algorithm)
+- [网络建模与优化](https://github.com/seanys/Transportation-and-Optimization-Notes)
 
 ## 实习篇
 
@@ -45,7 +48,7 @@
 
 ## 竞赛篇
 
-- [数学建模国赛一等奖经验贴 2020](https://github.com/seanys/CUMCM2020-Desert-Game)
+- [2020年全国数学建模比赛一等奖——经验贴](https://github.com/seanys/CUMCM2020-Desert-Game)
 
 ## 就业篇
 
@@ -55,11 +58,11 @@
 
 ## 留学篇
 
-- [德国](Graduate_Oversea/德国.md)
-- [NUS](Graduate_Oversea/NUS.md)
+- [新加坡](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Graduate_Oversea#新加坡)
+- [德国](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Graduate_Oversea#德国)
 
 ## 考研篇
 
 
-## 摆烂篇
+## 躺平篇
 
