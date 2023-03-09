@@ -16,6 +16,7 @@
 
 ### 学界招聘
 
+- 【DDL:20230320】[港科大工业工程与决策分析学系暑期研究实习计划](https://mp.weixin.qq.com/s/aWGtwh9Mtq8L9495p8lc-g)
 - 【20230308】[香港理工大学工业及系统工程学系博士生招聘](https://mp.weixin.qq.com/s/sts-bSfjnwjVV2gypg6nfg)（来源：数据魔术师）
 
 ## 课程篇
