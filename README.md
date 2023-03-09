@@ -33,6 +33,7 @@
 - [软件开发暑期实习 2020](https://github.com/seanys/Software-Development-Summer-Work)
 - [运营管理&仿真优化-邱灿华老师/胡照林老师 2020](https://github.com/seanys/Simulation-Notes)
 - [优化方法与理论-梁哲老师 2021](https://github.com/seanys/Optimality-Theory-Algorithm)
+- [网络设计与优化-王晓蕾老师 2021](https://github.com/seanys/Transportation-and-Optimization-Notes)
 
 ## 实习篇
 
