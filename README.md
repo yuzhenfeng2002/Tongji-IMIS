@@ -25,6 +25,13 @@
 - [管理建模与仿真](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Course#管理建模与仿真)
 - [离散数学](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Course#离散数学)
 - [管理信息系统分析与设计](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Course#管理信息系统分析与设计)
+- [数据结构-梁哲 2019](https://github.com/seanys/Data-Structure-Algoirthm-Tongji-SEM)
+- [管理信息系统分析与设计-吴冰 2020](https://github.com/seanys/ERP-Material-Management-Summer)
+- [运营管理-邱灿华 2020](https://github.com/seanys/Operations-Management)
+- [决策模拟-胡照林 2020](https://github.com/seanys/Boarding-Simulation)
+- [Java编程-贺向东 2019](https://github.com/seanys/Java-Tongji-SEM)
+- [软件开发暑期实习 2020](https://github.com/seanys/Software-Development-Summer-Work)
+- [运营管理&仿真优化-邱灿华/胡照林 2020](https://github.com/seanys/Simulation-Notes)
 
 ## 实习篇
 
@@ -36,6 +43,7 @@
 
 ## 竞赛篇
 
+- [数学建模国赛一等奖经验贴 2020](https://github.com/seanys/CUMCM2020-Desert-Game)
 
 ## 就业篇
 
@@ -46,6 +54,7 @@
 ## 留学篇
 
 - [德国](Graduate_Oversea/德国.md)
+- [NUS](Graduate_Oversea/NUS.md)
 
 ## 考研篇
 
