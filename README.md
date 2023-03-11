@@ -16,13 +16,27 @@
 
 ### 学界招聘
 
+- 【DDL:20230416】[CUHK -- HK PHD FELLOWSHIP SUMMER WORKSHOP](http://hkpfs.erg.cuhk.edu.hk/)
+- 【DDL:20230320】[港科大工业工程与决策分析学系暑期研究实习计划](https://mp.weixin.qq.com/s/aWGtwh9Mtq8L9495p8lc-g)
 - 【20230308】[香港理工大学工业及系统工程学系博士生招聘](https://mp.weixin.qq.com/s/sts-bSfjnwjVV2gypg6nfg)（来源：数据魔术师）
 
 ## 课程篇
 
+### 本科课程
+
+- [运营管理](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Course#运营管理)
+- [数据结构](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Course#数据结构)
 - [管理建模与仿真](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Course#管理建模与仿真)
+- [应用软件与管理实践](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Course#应用软件与管理实践)
 - [离散数学](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Course#离散数学)
+- [决策模拟](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Course#决策模拟)
+- [Java语言程序设计](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Course#Java语言程序设计)
 - [管理信息系统分析与设计](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Course#管理信息系统分析与设计)
+
+### 研究生课程
+
+- [优化理论与方法](https://github.com/seanys/Optimality-Theory-Algorithm)
+- [网络建模与优化](https://github.com/seanys/Transportation-and-Optimization-Notes)
 
 ## 实习篇
 
@@ -34,19 +48,23 @@
 
 ## 竞赛篇
 
+- [2020年全国数学建模比赛一等奖——经验贴](https://github.com/seanys/CUMCM2020-Desert-Game)
 
 ## 就业篇
 
+- [校招](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Work#)
 
 ## 保研篇
 
 
 ## 留学篇
 
-- [德国](Graduate_Oversea/德国.md)
+- [新加坡](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Graduate_Oversea#新加坡)
+- [德国](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Graduate_Oversea#德国)
 
 ## 考研篇
 
+- [链接](Graduate_Exam/README.md)
 
-## 摆烂篇
+## 躺平篇
 
