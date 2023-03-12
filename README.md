@@ -32,6 +32,7 @@
 - [决策模拟](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Course#决策模拟)
 - [Java语言程序设计](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Course#Java语言程序设计)
 - [管理信息系统分析与设计](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Course#管理信息系统分析与设计)
+- [物流导论](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Course#物流导论)
 
 ### 研究生课程
 
