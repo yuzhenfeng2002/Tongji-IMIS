@@ -69,3 +69,9 @@
 ### 往届参考资料
 
 - [课程作业](https://github.com/yuzhenfeng2002/Django-ERP-Material-Management)@Yuzhen Feng
+
+## 物流导论
+
+### 往届参考资料
+
+- [课程项目](https://github.com/seanys/Use-anyLogistixPLE-to-Simulate-Flexible-Production-Networks)@Shan Yang
