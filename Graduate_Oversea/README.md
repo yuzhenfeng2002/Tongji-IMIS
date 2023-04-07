@@ -7,3 +7,7 @@
 ## 德国
 
 [德国](Germany/德国001.md)
+
+## 中国香港
+
+[HK PhD 申请经验贴](./HK_PhD_share.pdf)
