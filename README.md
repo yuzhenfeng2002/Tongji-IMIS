@@ -62,6 +62,7 @@
 
 - [新加坡](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Graduate_Oversea#新加坡)
 - [德国](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Graduate_Oversea#德国)
+- [中国香港](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Graduate_Oversea#中国香港)
 
 ## 考研篇
 
