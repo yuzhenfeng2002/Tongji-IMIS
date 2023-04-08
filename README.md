@@ -39,11 +39,7 @@
 
 ## 实习篇
 
-- [互联网]()
-- [商业软件公司](Intern/商业软件公司)
-  - [SAP](Intern/商业软件公司/SAP.md)
-- [新能源or制造](Intern/新能源or制造)
-  - [蔚来](Intern/新能源or制造/蔚来.md)
+- [实习经验和面试经验](Intern/README.md)
 
 ## 竞赛篇
 
