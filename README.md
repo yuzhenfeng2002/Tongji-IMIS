@@ -47,24 +47,30 @@
 
 ## 竞赛篇
 
-- [2020年全国数学建模比赛一等奖——经验贴](https://github.com/seanys/CUMCM2020-Desert-Game)
+- [经验贴1-2020年全国数学建模比赛一等奖](https://github.com/seanys/CUMCM2020-Desert-Game)
 
 ## 就业篇
 
-- [校招](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Work#)
+- [校招板块和社招板块](Work/README.md)
 
 ## 保研篇
 
 
 ## 留学篇
 
+### 亚洲
+
 - [新加坡](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Graduate_Oversea#新加坡)
-- [德国](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Graduate_Oversea#德国)
 - [中国香港](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Graduate_Oversea#中国香港)
+
+### 欧洲
+
+- [德国](https://github.com/yuzhenfeng2002/Tongji-IMIS/tree/main/Graduate_Oversea#德国)
 
 ## 考研篇
 
-- [链接](Graduate_Exam/README.md)
+- [考验经验贴](Graduate_Exam/README.md)
 
 ## 躺平篇
 
+- [信管专业吹牛指南](Lay/信管专业吹牛指南.md)
