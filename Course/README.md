@@ -55,6 +55,7 @@
 
 - [课程作业与项目](https://github.com/yuzhenfeng2002/Java-Project-and-Homework)@Yuzhen Feng
 - [课程项目](https://github.com/seanys/Java-Tongji-SEM)@Shan Yang
+- [课程作业与项目](https://github.com/tantansir/2023-Java)@Kaizhen Tan
 
 ## 管理信息系统分析与设计
 
