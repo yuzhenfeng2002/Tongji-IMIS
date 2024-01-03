@@ -29,6 +29,7 @@
 
 - [课程作业](https://github.com/seanys/Software-Development-Summer-Work)@Shan Yang
 - [课程作业](https://github.com/yuzhenfeng2002/Django-Web-of-Study-Helper)@Yuzhen Feng
+- [课程作业](https://github.com/tantansir/2023-Web-design-for-summer-semester)@Kaizhen Tan
 
 ## 离散数学
 
